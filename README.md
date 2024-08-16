@@ -1,7 +1,7 @@
 
 <h1 align="center">Report_cohensiveness</h1>
 
-## Concepts ## [View in Power BI]()
+## Concepts ## [View in Power BI](https://donglin1608.github.io/Report_cohensiveness/)
 - Vertically and horizontally aligned
 
 - Consistent and balanced positioning of elements
